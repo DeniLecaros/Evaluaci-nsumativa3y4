@@ -1,0 +1,49 @@
+.navbar {
+    background-color: black;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Para espaciar entre el logo y la lista de enlaces */
+    margin-bottom: 20px;
+}
+
+.navbar-logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo-image {
+    max-height: 50px;
+    height: auto;
+    margin-right: 20px; /* Espacio a la derecha del logo */
+}
+
+.logo-image.mirror {
+    transform: scaleX(-1); /* Efecto espejo */
+    margin-left: 20px; /* Espacio a la izquierda del logo espejo */
+}
+
+.navbar-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+.navbar-item {
+    margin: 0 15px;
+}
+
+.navbar-link {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.navbar-link:hover {
+    color: #ff9800;
+}

@@ -1,0 +1,44 @@
+/* HomePage.css */
+.homepage {
+    position: relative;
+    text-align: center;
+    overflow: hidden;
+}
+
+.intro-text-overlay {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0) 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+}
+
+.intro-text {
+    color: white;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.intro-text h1 {
+    font-size: 3em;
+    margin: 0;
+    font-family: 'Comic Sans MS', sans-serif;
+}
+
+.intro-text p {
+    font-size: 1.5em;
+    margin-top: 10px;
+    font-family: 'Comic Sans MS', sans-serif;
+}
+
+.carousel img {
+    width: 100%;
+    height: 80vh;
+    object-fit: cover;
+}

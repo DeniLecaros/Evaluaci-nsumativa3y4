@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "nombre": "Spider-Man",
+        "tipo": "Superhéroe",
+        "origen": "Marvel",
+        "descripcion": "Peter Parker fue mordido por una araña radiactiva y obtuvo habilidades arácnidas.",
+        "foto": "https://www.shutterstock.com/image-vector/spiderman-suit-icon-logo-super-600nw-2407844867.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Batman",
+        "tipo": "Superhéroe",
+        "origen": "DC",
+        "descripcion": "Bruce Wayne usa su riqueza y habilidades de detective para luchar contra el crimen.",
+        "foto": "https://i.pinimg.com/564x/e5/90/ab/e590abf518bfa04a09dfb5c199a0c533.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Superman",
+        "tipo": "Superhéroe",
+        "origen": "DC",
+        "descripcion": "Kal-El, el último hijo de Krypton, es enviado a la Tierra donde se convierte en Superman.",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlFZ9jltAREhNaIHGtfMiaZduGTdK8MnhlWuJ_2HKAt_D2tN8O4yY86KDS9NrQkVQ9q2Y&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "nombre": "Wonder Woman",
+        "tipo": "Superhéroe",
+        "origen": "DC",
+        "descripcion": "Diana, princesa de las Amazonas, utiliza su fuerza y habilidades de combate para proteger la justicia.",
+        "foto": "https://i.pinimg.com/originals/f0/1f/b7/f01fb7fe2dd4ca852dbc394d628efcd3.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Iron Man",
+        "tipo": "Superhéroe",
+        "origen": "Marvel",
+        "descripcion": "Tony Stark, un genio millonario, usa su tecnología avanzada para luchar contra el mal como Iron Man.",
+        "foto": "https://i.pinimg.com/564x/48/9e/d5/489ed50fa4c699a2547097d2cef165b0.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Captain America",
+        "tipo": "Superhéroe",
+        "origen": "Marvel",
+        "descripcion": "Steve Rogers, un supersoldado, lucha por la libertad y la justicia con su escudo icónico.",
+        "foto": "https://i.pinimg.com/564x/96/71/7d/96717d74aa9342a2a0db2fd11eb3fb07.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Thor",
+        "tipo": "Superhéroe",
+        "origen": "Marvel",
+        "descripcion": "El dios del trueno de Asgard, Thor, lucha con su poderoso martillo Mjolnir.",
+        "foto": "https://i.pinimg.com/564x/59/d9/e5/59d9e5078325e1aab43a2d29eb0d60fa.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Hulk",
+        "tipo": "Superhéroe",
+        "origen": "Marvel",
+        "descripcion": "Bruce Banner se transforma en Hulk, un ser verde y poderoso, cuando se enoja.",
+        "foto": "https://i.pinimg.com/564x/f6/b8/b0/f6b8b05e65e54dc8b726cadaca001797.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Black Widow",
+        "tipo": "Superhéroe",
+        "origen": "Marvel",
+        "descripcion": "Natasha Romanoff es una espía y luchadora experta, conocida como Black Widow.",
+        "foto": "https://i.pinimg.com/736x/6e/bc/46/6ebc460c0cfd8005724fc0cf68a49a03.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Flash",
+        "tipo": "Superhéroe",
+        "origen": "DC",
+        "descripcion": "Barry Allen, conocido como Flash, es el hombre más rápido del mundo.",
+        "foto": "https://i.pinimg.com/564x/83/10/59/83105916580f7b38172a68bc0cd688bb.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Aquaman",
+        "tipo": "Superhéroe",
+        "origen": "DC",
+        "descripcion": "Arthur Curry, el rey de Atlantis, lucha por la protección de los océanos como Aquaman.",
+        "foto": "https://i.pinimg.com/564x/db/6c/53/db6c53306e9874383d9b4592535432fa.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "Black Panther",
+        "tipo": "Superhéroe",
+        "origen": "Marvel",
+        "descripcion": "T'Challa, el rey de Wakanda, es el poderoso y ágil Black Panther.",
+        "foto": "https://i.pinimg.com/564x/e3/25/97/e3259755573d34beb8fa6d9345db7946.jpg"
+    }
+]

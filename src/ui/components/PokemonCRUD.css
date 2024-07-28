@@ -1,0 +1,60 @@
+/* PokemonCRUD.css */
+.pokemon-crud-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.pokemon-crud-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.pokemon-crud-input {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 250px;
+    box-sizing: border-box;
+}
+
+.pokemon-crud-buttons {
+    margin-bottom: 20px;
+}
+
+.pokemon-crud-buttons button {
+    margin: 5px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: #32373a;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.pokemon-crud-buttons button:hover {
+    background-color: #0056b3;
+}
+
+.pokemon-list {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+.pokemon-list img {
+    display: block;
+    margin: 0 auto;
+}
+.pokemon-crud-subtitle {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.2em;
+    color: #555; /* Color de texto gris para un tono suave */
+}
